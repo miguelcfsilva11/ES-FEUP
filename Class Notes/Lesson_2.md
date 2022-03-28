@@ -30,4 +30,7 @@ There are many activities that happen throughout this phase:
 
 These steps are displayed via the different **artifacts** that are produced during this process, such as: list of requirements (which is **mandatory**), system models, UI interfaces or mockups and acceptance tests. Driven by **user stories**, we iterate on these four activities and we tackle what's left on our **product backlog**, that contain the prioritized list of requirements.
 
+# Use Cases and User Stories
+
+They encapsulate the objective of the project. They are the embodiment of the user's necessities, expressed via either a paragraph explaining what they want (**user story**) or a simple diagram that shows the linking between different actions triggered by their behaviour (**use cases**).
 
